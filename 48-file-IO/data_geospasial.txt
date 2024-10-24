@@ -1,0 +1,1 @@
+Koordinat pertama: 10, 5Koordinat kedua: 15, 25Koordinat tambahan: 30, 40
